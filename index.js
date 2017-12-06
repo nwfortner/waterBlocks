@@ -151,6 +151,11 @@ class WaterBuckets {
 
 }
 
+// Pass in the operation parameters, instantiate WaterBuckets, and assign the
+// instance to the variable 'waterBucketsInstance'.
+
 const waterBucketsInstance = new WaterBuckets(3, 7, 5);
+
+// Call the 'run' prototype method on waterBucketsInstance and log the result to the console.
 
 console.log(waterBucketsInstance.run());
