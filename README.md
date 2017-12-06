@@ -5,6 +5,6 @@ To run this program:
  - Clone down this repo.
  - From the project root directory run 'node index.js'.
  - View the output in the console.
- - If you would like to change the parameters do so in the index.js on line 157.
+ - If you would like to change the parameters do so in the index.js file on line 157.
 
  *NOTE* You do not need to run npm install for this program to run. The only dependency is a linter and is not essential to the program.
