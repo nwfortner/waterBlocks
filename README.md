@@ -1,7 +1,7 @@
 # waterBuckets
 
 To run this program:
- - Make sure you have node installed.
+ - Make sure you have node version 6 or greater installed.
  - Clone down this repo.
  - From the root directory run node index.js
  - View the output in the console.
