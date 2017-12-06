@@ -151,6 +151,6 @@ class WaterBuckets {
 
 }
 
-const game = new WaterBuckets(3, 5, 4);
+const waterBucketsInstance = new WaterBuckets(3, 7, 5);
 
-console.log(game.run());
+console.log(waterBucketsInstance.run());
